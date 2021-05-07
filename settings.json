@@ -17,7 +17,7 @@
       "bellStyle": "visual",
       "startingDirectory": "",
       "experimental.rendering.forceFullRepaint": true,
-      "colorScheme": "Night Owl"
+      "colorScheme": "Neon"
     },
     "list": [
       {
@@ -73,7 +73,7 @@
       },
       {
         "guid": "{0caa0dad-35be-5f56-a8ff-afceeeaa6103}",
-        "hidden": true,
+        "hidden": false,
         "name": "Termux SSH",
         "commandline": "ssh termux.ssh -p 8022",
         "icon": "V:\\wsl\\icons\\termux.png"
